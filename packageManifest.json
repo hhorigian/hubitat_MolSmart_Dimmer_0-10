@@ -1,0 +1,17 @@
+{
+ "packageName":"MolSmart - Dimmer 6CH (TCP)",
+ "author":"Vartan Horigian",
+ "version":"1.6",
+ "minimumHEVersion":"2.3.7.100",
+ "dateReleased":"2024-07-31",
+ "releaseNotes":"1.6 17/12/2024 - Added Input Feedback. ",
+ "drivers": [
+  {
+     "id":"5562712a-3bfa-4f48-87b9-3687a279602b",
+     "name":"MolSmart - Dimmer 6CH (TCP)",
+     "namespace":"TRATO",
+     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Dimmer/main/user_driver_TRATO_MolSmart_DIMMER_Driver.groovy",
+     "required":true
+  }
+  ]
+}
