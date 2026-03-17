@@ -10,7 +10,7 @@
      "id":"5562712a-3bfa-4f48-87b9-3687a279602c",
      "name":"MolSmart DIMMER-010",
      "namespace":"TRATO",
-     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Dimmer_0-10/refs/heads/main/TRATO_MolSmart_DIMMER-010.groovy,
+     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_Dimmer_0-10/refs/heads/main/TRATO_MolSmart_DIMMER-010.groovy",
      "required":true
   }
   ]
